@@ -1,0 +1,19 @@
+{
+  "name": "carousel-thingy",
+  "version": "0.0.0",
+  "authors": [
+    "Nick Donohue <ndonohue@gmail.com>"
+  ],
+  "description": "please do not use this.",
+  "main": "carousel-thingy.js",
+  "license": "none",
+  "homepage": "none",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
