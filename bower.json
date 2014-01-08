@@ -5,7 +5,7 @@
     "Nick Donohue <ndonohue@gmail.com>"
   ],
   "description": "please do not use this.",
-  "main": "carousel-thingy.js",
+  "main": "carousel.js",
   "license": "none",
   "homepage": "none",
   "private": true,
